@@ -1,5 +1,5 @@
 # Title : PowerBi_Project
-# COVID-19 Data Analysis 
+# COVID-19 Data Visualizationa and Analysis
 
 ## Objective
 This project analyzes COVID-19 cases and deaths across different WHO regions to understand patterns, trends, and regional disparities.
